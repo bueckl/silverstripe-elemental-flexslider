@@ -19,8 +19,7 @@
             "url": "https://github.com/bueckl/silverstripe-elemental-flexslider"
         }
     ],
-    "require": {
-        "dnadesign/silverstripe-elemental": "^4.0",
+    "require": {        
         "dynamic/flexslider": "dev-custom"
     },
     "require-dev": {
