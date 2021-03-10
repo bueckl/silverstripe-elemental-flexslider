@@ -19,9 +19,7 @@
             "url": "https://github.com/bueckl/silverstripe-flexslider"
         }
     ],
-    "require": {        
-        "dynamic/flexslider": "dev-custom"
-    },
+
     "require-dev": {
         "pdepend/pdepend": "^2.5",
         "phploc/phploc": "^4.0",
