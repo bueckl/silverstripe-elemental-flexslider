@@ -13,11 +13,7 @@
         "silverstripe", "elemental", "blocks", "dynamic", "flexslider", "slideshow"
     ],
     "license": "BSD-3-Clause",
-    "repositories": [        
-        {
-            "type": "vcs",
-            "url": "https://github.com/bueckl/silverstripe-elemental-flexslider"
-        },
+    "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/bueckl/silverstripe-flexslider"
