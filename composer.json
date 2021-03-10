@@ -13,9 +13,15 @@
         "silverstripe", "elemental", "blocks", "dynamic", "flexslider", "slideshow"
     ],
     "license": "BSD-3-Clause",
+    "repositories": [        
+        {
+            "type": "vcs",
+            "url": "https://github.com/bueckl/silverstripe-flexslider"
+        }
+    ],
     "require": {
         "dnadesign/silverstripe-elemental": "^4.0",
-        "dynamic/flexslider": "^4.0"
+        "dynamic/flexslider": "dev-custom"
     },
     "require-dev": {
         "pdepend/pdepend": "^2.5",
